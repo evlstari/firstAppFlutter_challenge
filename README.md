@@ -2,7 +2,7 @@
 
 Ini merupakan first Flutter app challenge dari tutorial First Flutter App pada dokumentasi Flutter. Bagaimana membuat tampilan semirip mungkin seperti gambar di bawah ini:
 
-<img src="https://github.com/evlstari/firstAppFlutter_challenge/blob/main/lib/model/imgchallenge.png" width="250">
+<img src="https://github.com/evlstari/firstAppFlutter_challenge/blob/main/lib/model/imgchallenge.png" width="450">
 
 ## Getting Started
 
