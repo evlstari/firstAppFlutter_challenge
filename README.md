@@ -1,6 +1,8 @@
 # codelab1_flutter
 
-A new Flutter project.
+Ini merupakan first Flutter app challenge dari tutorial First Flutter App pada dokumentasi Flutter. Bagaimana membuat tampilan semirip mungkin seperti gambar di bawah ini:
+
+<img src="https://github.com/evlstari/e-consult-app/blob/main/images/login.png" width="250">
 
 ## Getting Started
 
